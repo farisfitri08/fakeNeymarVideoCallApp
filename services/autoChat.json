@@ -1,0 +1,68 @@
+[
+  {
+    "_id": "@{id}",
+    "text": "Do you have instagram?",
+    "createdAt": "@{currentdate}",
+    "user": {
+      "_id": "@{id}",
+      "name": "React Native",
+      "avatar": "@{picture}"
+    },
+    "chat": "bot"
+  },
+  {
+    "_id": "@{id}",
+    "text": "Do you like messi?",
+    "createdAt": "@{currentdate}",
+    "user": {
+      "_id": "@{id}",
+      "name": "React Native",
+      "avatar": "@{picture}"
+    },
+    "chat": "bot"
+  },
+  {
+    "_id": "@{id}",
+    "text": "Great!",
+    "createdAt": "@{currentdate}",
+    "user": {
+      "_id": "@{id}",
+      "name": "React Native",
+      "avatar": "@{picture}"
+    },
+    "chat": "bot"
+  },
+  {
+    "_id": "@{id}",
+    "text": "Im good!",
+    "createdAt": "@{currentdate}",
+    "user": {
+      "_id": "@{id}",
+      "name": "React Native",
+      "avatar": "@{picture}"
+    },
+    "chat": "bot"
+  },
+  {
+    "_id": "@{id}",
+    "text": "How are you?",
+    "createdAt": "@{currentdate}",
+    "user": {
+      "_id": "@{id}",
+      "name": "React Native",
+      "avatar": "@{picture}"
+    },
+    "chat": "bot"
+  },
+  {
+    "_id": "@{id}",
+    "text": "Do you like me?",
+    "createdAt": "@{currentdate}",
+    "user": {
+      "_id": "@{id}",
+      "name": "React Native",
+      "avatar": "@{picture}"
+    },
+    "chat": "bot"
+  }
+]
